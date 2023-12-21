@@ -1,4 +1,4 @@
-# Word-G
+# Mirror
 Newbie here. 
 I love scrabble.
 I want to learn how to code it to my prefered game style.
