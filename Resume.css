@@ -159,10 +159,10 @@
         </div>
         
       </div>
-      <div class="rightPanel">
+      <div class="rightPanel" >
         <div>
           <h1>
-            <qoute contenteditable="true"> Jhon Doe
+           <div contenteditable="true" placeholder="John Doe"></div> 
           </h1>
           <div class="smallText">
             <h3>
